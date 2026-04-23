@@ -1,0 +1,304 @@
+[
+  {
+    "id": "cap_moayprb9_e96cbe",
+    "selector": "header.elementor-section",
+    "label": "Home Quem somos Produtos e serviços Proc…",
+    "tag": "header",
+    "url": "https://www.globallabel.com.br/",
+    "title": "Global Label",
+    "timestamp": "2026-04-23T04:09:16.677Z",
+    "innerText": "Home\nQuem somos\nProdutos e serviços\nProcessos de qualidade\nContato\nTrabalhe conosco",
+    "outerHTML": "<header class=\"elementor-section elementor-top-section elementor-element elementor-element-675489c7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"675489c7\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a895f9e\" data-id=\"a895f9e\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-09e9444 elementor-widget elementor-widget-image\" data-id=\"09e9444\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/\">\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"https://www.globallabel.com.br/wp-content/uploads/elementor/thumbs/GLOBAL-LABEL_ESTUDO-MARCA_OPÇÃO-07_Prancheta-1-cópia-o61aeq40nwriayuwmxvdj7lho5kvbmpub0tibuovls.png\" title=\"Global-label-logo 01\" alt=\"Logo\" loading=\"lazy\">\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70bb4df7\" data-id=\"70bb4df7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-122017d2 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu\" data-id=\"122017d2\" data-element_type=\"widget\" data-settings=\"{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\\&quot;\\&quot;&gt;&lt;\\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}\" data-widget_type=\"nav-menu.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<nav aria-label=\"Menu\" class=\"elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide\">\n\t\t\t\t<ul id=\"menu-1-122017d2\" class=\"elementor-nav-menu\" data-smartmenus-id=\"177691734162825\"><li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-387\"><a href=\"https://www.globallabel.com.br/\" aria-current=\"page\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item elementor-item-active\">Home</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-440\"><a href=\"https://www.globallabel.com.br/quem-somos/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\">Quem somos</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-386\"><a href=\"https://www.globallabel.com.br/produtos-e-servicos/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\">Produtos e serviços</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-439\"><a href=\"https://www.globallabel.com.br/processos-de-qualidade/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\">Processos de qualidade</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-438\"><a href=\"https://www.globallabel.com.br/contato/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\">Contato</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-441\"><a href=\"https://www.globallabel.com.br/trabalhe-conosco/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\">Trabalhe conosco</a></li>\n</ul>\t\t\t</nav>\n\t\t\t\t\t<div class=\"elementor-menu-toggle\" role=\"button\" tabindex=\"0\" aria-label=\"Menu Toggle\" aria-expanded=\"false\" style=\"\">\n\t\t\t<i aria-hidden=\"true\" role=\"presentation\" class=\"elementor-menu-toggle__icon--open eicon-menu-bar\"></i><i aria-hidden=\"true\" role=\"presentation\" class=\"elementor-menu-toggle__icon--close eicon-close\"></i>\t\t\t<span class=\"elementor-screen-only\">Menu</span>\n\t\t</div>\n\t\t\t\t\t<nav class=\"elementor-nav-menu--dropdown elementor-nav-menu__container\" aria-hidden=\"true\" style=\"width: 1351px; left: 0px; top: 69px;\">\n\t\t\t\t<ul id=\"menu-2-122017d2\" class=\"elementor-nav-menu\" data-smartmenus-id=\"17769173416295442\"><li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-387\"><a href=\"https://www.globallabel.com.br/\" aria-current=\"page\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item elementor-item-active\" tabindex=\"-1\">Home</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-440\"><a href=\"https://www.globallabel.com.br/quem-somos/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\" tabindex=\"-1\">Quem somos</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-386\"><a href=\"https://www.globallabel.com.br/produtos-e-servicos/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\" tabindex=\"-1\">Produtos e serviços</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-439\"><a href=\"https://www.globallabel.com.br/processos-de-qualidade/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\" tabindex=\"-1\">Processos de qualidade</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-438\"><a href=\"https://www.globallabel.com.br/contato/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\" tabindex=\"-1\">Contato</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-441\"><a href=\"https://www.globallabel.com.br/trabalhe-conosco/\" title=\"\n\t\t\t\t\t\t\" class=\"elementor-item\" tabindex=\"-1\">Trabalhe conosco</a></li>\n</ul>\t\t\t</nav>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</header>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1351,
+      "height": 154
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "154.125px",
+      "padding": "0px 30px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-675489c7:not(.elementor-motion-effects-element-type-background), .elementor-12 .elementor-element.elementor-element-675489c7 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgb(255, 255, 255);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-675489c7",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 0px 30px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moaypt47_x87aom",
+    "selector": "div.elementor-background-overlay",
+    "label": "div.elementor-background-overlay",
+    "tag": "div",
+    "url": "https://www.globallabel.com.br/",
+    "title": "Global Label",
+    "timestamp": "2026-04-23T04:09:19.015Z",
+    "innerText": "",
+    "outerHTML": "<div class=\"elementor-background-overlay\"></div>",
+    "rect": {
+      "x": 0,
+      "y": 154,
+      "width": 1351,
+      "height": 856
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "absolute",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "856.188px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(221, 221, 221, 0.93) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "opacity": "0.5",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border-radius 0.3s, opacity 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor .elementor-background-overlay",
+        "css": "inset: 0px; position: absolute;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-5f45b06 > .elementor-background-overlay",
+        "css": "background-color: rgba(221, 221, 221, 0.93); opacity: 0.5; transition: background 0.3s, border-radius 0.3s, opacity 0.3s;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayqayc_v18i89",
+    "selector": "section.elementor-section",
+    "label": "Produtos e serviços",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/",
+    "title": "Global Label",
+    "timestamp": "2026-04-23T04:09:42.133Z",
+    "innerText": "Produtos e serviços",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-5b727ae7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"5b727ae7\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68b258d2\" data-id=\"68b258d2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated e-swiper-container\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4029772c elementor-widget elementor-widget-heading\" data-id=\"4029772c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Produtos e serviços</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cfbd664 elementor-widget elementor-widget-spacer\" data-id=\"cfbd664\" data-element_type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3a8a018 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel e-widget-swiper\" data-id=\"3a8a018\" data-element_type=\"widget\" data-settings=\"{&quot;slides_to_show&quot;:&quot;3&quot;,&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;3&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;2&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}\" data-widget_type=\"image-carousel.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events\" role=\"region\" aria-roledescription=\"carousel\" aria-label=\"Carrossel de imagens\" dir=\"ltr\">\n\t\t\t<div class=\"elementor-image-carousel swiper-wrapper\" aria-live=\"off\" id=\"swiper-wrapper-78cfd28e1295f107e\" style=\"transform: translate3d(-3800px, 0px, 0px); transition-duration: 0ms;\"><div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"15 / 17\" data-swiper-slide-index=\"14\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-08\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIxLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wOC0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-1-150x150.png\" alt=\"ICONES-08\"></figure></a></div><div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"16 / 17\" data-swiper-slide-index=\"15\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-09\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wOS0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-150x150.png\" alt=\"ICONES-09\"></figure></a></div><div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"17 / 17\" data-swiper-slide-index=\"16\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-12\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIzLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xMi0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-150x150.png\" alt=\"ICONES-12\"></figure></a></div>\n\t\t\t\t\t\t\t\t<div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 17\" data-swiper-slide-index=\"0\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-02\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Mzg0LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wMi5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"2 / 17\" data-swiper-slide-index=\"1\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-03\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzgzLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wMy5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 17\" data-swiper-slide-index=\"2\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-04\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzgyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wNC5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"4 / 17\" data-swiper-slide-index=\"3\" style=\"width: 380px;\" aria-hidden=\"true\" inert=\"\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-05\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Mzc5LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wNS5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"5 / 17\" data-swiper-slide-index=\"4\" style=\"width: 380px;\" aria-hidden=\"true\" inert=\"\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-06\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Mzc3LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wNi5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"6 / 17\" data-swiper-slide-index=\"5\" style=\"width: 380px;\" aria-hidden=\"true\" inert=\"\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-07\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Mzc2LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wNy5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide swiper-slide-prev\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"7 / 17\" data-swiper-slide-index=\"6\" style=\"width: 380px;\" aria-hidden=\"true\" inert=\"\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-10\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzczLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xMC5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide swiper-slide-active\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"8 / 17\" data-swiper-slide-index=\"7\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-11\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzcyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xMS5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide swiper-slide-next\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"9 / 17\" data-swiper-slide-index=\"8\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-13\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzcwLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xMy5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"10 / 17\" data-swiper-slide-index=\"9\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-14\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY5LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xNC5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"11 / 17\" data-swiper-slide-index=\"10\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-15\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY4LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xNS5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"12 / 17\" data-swiper-slide-index=\"11\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-16\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY3LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xNi5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"13 / 17\" data-swiper-slide-index=\"12\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-18\" data-elementor-lightbox-description=\"\n\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY1LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xOC5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-18-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"14 / 17\" data-swiper-slide-index=\"13\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-17\" data-elementor-lightbox-description=\"\n\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzY2LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xNy5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-17-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"15 / 17\" data-swiper-slide-index=\"14\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-08\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIxLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wOC0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-1-150x150.png\" alt=\"ICONES-08\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"16 / 17\" data-swiper-slide-index=\"15\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-09\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wOS0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-150x150.png\" alt=\"ICONES-09\"></figure></a></div><div class=\"swiper-slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"17 / 17\" data-swiper-slide-index=\"16\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-12\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NjIzLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0xMi0xLnBuZyIsInNsaWRlc2hvdyI6IjNhOGEwMTgifQ%3D%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-150x150.png\" alt=\"ICONES-12\"></figure></a></div>\t\t\t<div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 17\" data-swiper-slide-index=\"0\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-02\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Mzg0LCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wMi5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"2 / 17\" data-swiper-slide-index=\"1\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-03\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzgzLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wMy5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-150x150.png\" alt=\"\"></figure></a></div><div class=\"swiper-slide swiper-slide-duplicate\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 17\" data-swiper-slide-index=\"2\" aria-hidden=\"true\" inert=\"\" style=\"width: 380px;\"><a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3a8a018\" data-elementor-lightbox-title=\"ICONES-04\" data-elementor-lightbox-description=\"\t\t\t\t\t\t\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzgyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lmdsb2JhbGxhYmVsLmNvbS5iclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDZcL0lDT05FUy0wNC5wbmciLCJzbGlkZXNob3ciOiIzYThhMDE4In0%3D\" href=\"https://www.globallabel.com.br/produtos-e-servicos/\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-150x150.png\" alt=\"\"></figure></a></div></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-prev\" role=\"button\" tabindex=\"0\" aria-label=\"Slide anterior\" aria-controls=\"swiper-wrapper-78cfd28e1295f107e\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-left\"></i>\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-next\" role=\"button\" tabindex=\"0\" aria-label=\"Próximo slide\" aria-controls=\"swiper-wrapper-78cfd28e1295f107e\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-right\"></i>\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal\"><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"0\" aria-label=\"Ir para o slide 1\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"1\" aria-label=\"Ir para o slide 2\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"2\" aria-label=\"Ir para o slide 3\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"3\" aria-label=\"Ir para o slide 4\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"4\" aria-label=\"Ir para o slide 5\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"5\" aria-label=\"Ir para o slide 6\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"6\" aria-label=\"Ir para o slide 7\"></span><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\" role=\"button\" data-bullet-index=\"7\" aria-label=\"Ir para o slide 8\" tabindex=\"0\" aria-current=\"true\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"8\" aria-label=\"Ir para o slide 9\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"9\" aria-label=\"Ir para o slide 10\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"10\" aria-label=\"Ir para o slide 11\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"11\" aria-label=\"Ir para o slide 12\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"12\" aria-label=\"Ir para o slide 13\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"13\" aria-label=\"Ir para o slide 14\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"14\" aria-label=\"Ir para o slide 15\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"15\" aria-label=\"Ir para o slide 16\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"16\" aria-label=\"Ir para o slide 17\"></span></div>\n\t\t\t\t\t\t\t\t\t<span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 6,
+      "width": 1351,
+      "height": 491
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "491px",
+      "padding": "100px 0px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0.47) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padra%CC%83o-cor-home-1.png\") repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-5b727ae7:not(.elementor-motion-effects-element-type-background), .elementor-12 .elementor-element.elementor-element-5b727ae7 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgba(0, 0, 0, 0.47); background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padrão-cor-home-1.png\");",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-5b727ae7",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 100px 0px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-5b727ae7",
+        "css": "padding: 100px 25px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-12 .elementor-element.elementor-element-5b727ae7",
+        "css": "padding: 50px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  }
+]

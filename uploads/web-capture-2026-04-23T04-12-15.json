@@ -1,0 +1,613 @@
+[
+  {
+    "id": "cap_moayt498_gqhcl0",
+    "selector": "h3.elementor-heading-title",
+    "label": "Processos de qualidade",
+    "tag": "h3",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:11:53.420Z",
+    "innerText": "Processos de qualidade",
+    "outerHTML": "<h3 class=\"elementor-heading-title elementor-size-default\">Processos de qualidade</h3>",
+    "rect": {
+      "x": 127,
+      "y": 257,
+      "width": 1097,
+      "height": 60
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1097px",
+      "height": "60px",
+      "border": "0px none rgb(255, 255, 255)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(255, 255, 255)",
+      "font-family": "Roboto, sans-serif",
+      "font-size": "60px",
+      "font-weight": "600",
+      "line-height": "60px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "h1, h2, h3, h4, h5, h6",
+        "css": "font-weight: 600; margin: 0px 0px 20px; color: rgb(51, 51, 51); line-height: 1.4;",
+        "media": "all"
+      },
+      {
+        "selector": "h3",
+        "css": "font-size: 18px;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": "p, h2, h3",
+        "css": "orphans: 3; widows: 3;",
+        "media": "print"
+      },
+      {
+        "selector": "h2, h3",
+        "css": "break-after: avoid;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-heading-title",
+        "css": "line-height: 1; margin: 0px; padding: 0px;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-widget-heading .elementor-heading-title",
+        "css": "font-family: var( --e-global-typography-primary-font-family ), Sans-serif; font-weight: var( --e-global-typography-primary-font-weight ); color: var( --e-global-color-primary );",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-6d6244ea .elementor-heading-title",
+        "css": "font-size: 60px; color: rgb(255, 255, 255);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-6d6244ea .elementor-heading-title",
+        "css": "font-size: 40px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayt5ih_5u2f07",
+    "selector": "section.elementor-section",
+    "label": "A cada ano a Global Label tem investido …",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:11:55.049Z",
+    "innerText": "A cada ano a Global Label tem investido na aquisição de novas tecnologias para atender a demanda do mercado e também entregar muita qualidade, sempre.\n\nPossuímos equipamentos novos, adquiridos de nossa parceira e fornecedora Etirama, referência no mercado nacional e internacional de impressoras flexográficas.\n\nTemos em nosso parque fabril impressoras FIT e o lançamento da Etirama – X-Print, nas quais trabalhamos com cilindros magnéticos. Nossos equipamentos são equipados para impressão em 6 e 8 cores. Também utilizamos a revisora EVO Etirama e troqueladora.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-706bfb40 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"706bfb40\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-505d8ffc\" data-id=\"505d8ffc\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated e-swiper-container\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-031ca16 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel e-widget-swiper\" data-id=\"031ca16\" data-element_type=\"widget\" data-settings=\"{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}\" data-widget_type=\"image-carousel.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\" role=\"region\" aria-roledescription=\"carousel\" aria-label=\"Carrossel de imagens\" dir=\"ltr\">\n\t\t\t<div class=\"elementor-image-carousel swiper-wrapper\" aria-live=\"off\" id=\"swiper-wrapper-09ced418ca81e2de\" style=\"transform: translate3d(-1100px, 0px, 0px); transition-duration: 0ms;\"><div class=\"swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 3\" data-swiper-slide-index=\"2\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/fit-2-768x576.jpg\" alt=\"fit-2\"></figure></div>\n\t\t\t\t\t\t\t\t<div class=\"swiper-slide swiper-slide-prev\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 3\" data-swiper-slide-index=\"0\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/XPRINT-97-copy-768x512.jpg\" alt=\"XPRINT-97-copy\"></figure></div><div class=\"swiper-slide swiper-slide-active\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"2 / 3\" data-swiper-slide-index=\"1\" style=\"width: 550px;\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/revisorajan18-4-768x667.jpg\" alt=\"revisorajan18-4\"></figure></div><div class=\"swiper-slide swiper-slide-next\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 3\" data-swiper-slide-index=\"2\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/fit-2-768x576.jpg\" alt=\"fit-2\"></figure></div>\t\t\t<div class=\"swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 3\" data-swiper-slide-index=\"0\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/XPRINT-97-copy-768x512.jpg\" alt=\"XPRINT-97-copy\"></figure></div></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-prev\" role=\"button\" tabindex=\"0\" aria-label=\"Slide anterior\" aria-controls=\"swiper-wrapper-09ced418ca81e2de\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-left\"></i>\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-next\" role=\"button\" tabindex=\"0\" aria-label=\"Próximo slide\" aria-controls=\"swiper-wrapper-09ced418ca81e2de\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-right\"></i>\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal\"><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"0\" aria-label=\"Ir para o slide 1\"></span><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\" role=\"button\" data-bullet-index=\"1\" aria-label=\"Ir para o slide 2\" tabindex=\"0\" aria-current=\"true\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"2\" aria-label=\"Ir para o slide 3\"></span></div>\n\t\t\t\t\t\t\t\t\t<span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2abeaf6\" data-id=\"2abeaf6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-ad3c726 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ad3c726\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ecf9ecd\" data-id=\"ecf9ecd\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1ceafa61 elementor-widget elementor-widget-text-editor\" data-id=\"1ceafa61\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>A cada ano a Global Label tem investido na aquisição de novas tecnologias para atender a demanda do mercado e também entregar muita qualidade, sempre.</p><p>Possuímos equipamentos novos, adquiridos de nossa parceira e fornecedora Etirama, referência no mercado nacional e internacional de impressoras flexográficas.</p><p>Temos em nosso parque fabril impressoras FIT e o lançamento&nbsp;da Etirama – X-Print, nas quais trabalhamos com cilindros magnéticos. Nossos equipamentos são equipados para impressão em 6 e 8 cores. Também utilizamos a revisora EVO Etirama e troqueladora.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 180,
+      "width": 1351,
+      "height": 528
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "527.656px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayt79c_j8zgmk",
+    "selector": "section.elementor-section",
+    "label": "A cada ano a Global Label tem investido …",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:11:57.312Z",
+    "innerText": "A cada ano a Global Label tem investido na aquisição de novas tecnologias para atender a demanda do mercado e também entregar muita qualidade, sempre.\n\nPossuímos equipamentos novos, adquiridos de nossa parceira e fornecedora Etirama, referência no mercado nacional e internacional de impressoras flexográficas.\n\nTemos em nosso parque fabril impressoras FIT e o lançamento da Etirama – X-Print, nas quais trabalhamos com cilindros magnéticos. Nossos equipamentos são equipados para impressão em 6 e 8 cores. Também utilizamos a revisora EVO Etirama e troqueladora.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-706bfb40 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"706bfb40\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-505d8ffc\" data-id=\"505d8ffc\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated e-swiper-container\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-031ca16 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel e-widget-swiper\" data-id=\"031ca16\" data-element_type=\"widget\" data-settings=\"{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}\" data-widget_type=\"image-carousel.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\" role=\"region\" aria-roledescription=\"carousel\" aria-label=\"Carrossel de imagens\" dir=\"ltr\">\n\t\t\t<div class=\"elementor-image-carousel swiper-wrapper\" aria-live=\"off\" id=\"swiper-wrapper-09ced418ca81e2de\" style=\"transform: translate3d(-1100px, 0px, 0px); transition-duration: 0ms;\"><div class=\"swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 3\" data-swiper-slide-index=\"2\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/fit-2-768x576.jpg\" alt=\"fit-2\"></figure></div>\n\t\t\t\t\t\t\t\t<div class=\"swiper-slide swiper-slide-prev\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 3\" data-swiper-slide-index=\"0\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/XPRINT-97-copy-768x512.jpg\" alt=\"XPRINT-97-copy\"></figure></div><div class=\"swiper-slide swiper-slide-active\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"2 / 3\" data-swiper-slide-index=\"1\" style=\"width: 550px;\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/revisorajan18-4-768x667.jpg\" alt=\"revisorajan18-4\"></figure></div><div class=\"swiper-slide swiper-slide-next\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 / 3\" data-swiper-slide-index=\"2\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/fit-2-768x576.jpg\" alt=\"fit-2\"></figure></div>\t\t\t<div class=\"swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 / 3\" data-swiper-slide-index=\"0\" style=\"width: 550px;\" aria-hidden=\"true\" inert=\"\"><figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/XPRINT-97-copy-768x512.jpg\" alt=\"XPRINT-97-copy\"></figure></div></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-prev\" role=\"button\" tabindex=\"0\" aria-label=\"Slide anterior\" aria-controls=\"swiper-wrapper-09ced418ca81e2de\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-left\"></i>\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"elementor-swiper-button elementor-swiper-button-next\" role=\"button\" tabindex=\"0\" aria-label=\"Próximo slide\" aria-controls=\"swiper-wrapper-09ced418ca81e2de\">\n\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-chevron-right\"></i>\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal\"><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"0\" aria-label=\"Ir para o slide 1\"></span><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\" role=\"button\" data-bullet-index=\"1\" aria-label=\"Ir para o slide 2\" tabindex=\"0\" aria-current=\"true\"></span><span class=\"swiper-pagination-bullet\" role=\"button\" data-bullet-index=\"2\" aria-label=\"Ir para o slide 3\"></span></div>\n\t\t\t\t\t\t\t\t\t<span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2abeaf6\" data-id=\"2abeaf6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-ad3c726 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ad3c726\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ecf9ecd\" data-id=\"ecf9ecd\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1ceafa61 elementor-widget elementor-widget-text-editor\" data-id=\"1ceafa61\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>A cada ano a Global Label tem investido na aquisição de novas tecnologias para atender a demanda do mercado e também entregar muita qualidade, sempre.</p><p>Possuímos equipamentos novos, adquiridos de nossa parceira e fornecedora Etirama, referência no mercado nacional e internacional de impressoras flexográficas.</p><p>Temos em nosso parque fabril impressoras FIT e o lançamento&nbsp;da Etirama – X-Print, nas quais trabalhamos com cilindros magnéticos. Nossos equipamentos são equipados para impressão em 6 e 8 cores. Também utilizamos a revisora EVO Etirama e troqueladora.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 80,
+      "width": 1351,
+      "height": 528
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "527.656px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayt8jv_ncwgbp",
+    "selector": "section.elementor-section",
+    "label": "Pré-impressão Trabalhamos conjuntamente …",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:11:58.987Z",
+    "innerText": "Pré-impressão\n\nTrabalhamos conjuntamente com nossos clientes, inclusive com a realização de aprovação em máquina.\n\nPara cada trabalho temos a pasta técnica com dados dos rótulos e as devidas aprovações, que servirão de suporte para o desenvolvimento da qualidade do produto.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-12b4b039 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"12b4b039\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2eb0ba7b\" data-id=\"2eb0ba7b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7ac1eb9b elementor-widget elementor-widget-heading\" data-id=\"7ac1eb9b\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Pré-impressão</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6588f298 elementor-widget elementor-widget-text-editor\" data-id=\"6588f298\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Trabalhamos conjuntamente com nossos clientes, inclusive com a realização de aprovação em máquina.</p><p>Para cada trabalho temos a pasta técnica com dados dos rótulos e as devidas aprovações, que servirão de suporte para o desenvolvimento da qualidade do produto.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 132,
+      "width": 1351,
+      "height": 249
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "249.172px",
+      "padding": "5px 0px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0.53) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padra%CC%83o-cor-home-1.png\") repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-12b4b039:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-12b4b039 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgba(0, 0, 0, 0.53); background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padrão-cor-home-1.png\");",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-12b4b039",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 5px 0px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-12b4b039",
+        "css": "padding: 100px 25px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-18 .elementor-element.elementor-element-12b4b039",
+        "css": "padding: 50px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moaytcef_u6go5q",
+    "selector": "section.elementor-section",
+    "label": "Gerenciamento de cores",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:12:03.975Z",
+    "innerText": "Gerenciamento de cores",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-30de5f06 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"30de5f06\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-473a0e1f\" data-id=\"473a0e1f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-2765e5ba elementor-widget elementor-widget-heading\" data-id=\"2765e5ba\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Gerenciamento de cores</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 124,
+      "width": 1351,
+      "height": 100
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "100px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moaytczr_9lbn5m",
+    "selector": "section.elementor-section",
+    "label": "O espectrofotômetro é uma ferramenta mui…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/processos-de-qualidade/",
+    "title": "Processos de qualidade – Global Label",
+    "timestamp": "2026-04-23T04:12:04.743Z",
+    "innerText": "O espectrofotômetro é uma ferramenta muito interessante e muito importante para nossa atividade.\n\nEssa tecnologia nos permite a leitura das cores das amostras disponibilizadas pelos clientes de maneira instantânea e precisa.\n\nApós a leitura é possível saber com exatidão qual a cor que devemos utilizar para a produção do material solicitado.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-269b37b elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"269b37b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d21af0e\" data-id=\"d21af0e\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-8fd59a4 elementor-widget elementor-widget-image\" data-id=\"8fd59a4\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"683\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957-1024x683.jpg\" class=\"attachment-large size-large wp-image-259\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957-1024x683.jpg 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957-300x200.jpg 300w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957-768x512.jpg 768w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957-1568x1045.jpg 1568w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9957.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b576884\" data-id=\"b576884\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-8bd1320 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"8bd1320\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a83c5eb\" data-id=\"a83c5eb\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-8463b0e elementor-widget elementor-widget-text-editor\" data-id=\"8463b0e\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>O espectrofotômetro é uma ferramenta muito interessante e muito importante para nossa atividade.</p><p>Essa tecnologia nos permite a leitura das cores das amostras disponibilizadas pelos clientes de maneira instantânea e precisa.</p><p>Após a leitura é possível saber com exatidão qual a cor que devemos utilizar para a produção do material solicitado.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 224,
+      "width": 1351,
+      "height": 387
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "386.844px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element, .elementor-lightbox",
+        "css": "--swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px;",
+        "media": "all"
+      }
+    ]
+  }
+]

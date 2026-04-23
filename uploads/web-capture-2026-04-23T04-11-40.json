@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cap_moaysioa_o3dnw7",
+    "selector": "section.elementor-section",
+    "label": "Rótulos e etiquetas",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/produtos-e-servicos/",
+    "title": "Produtos e serviços – Global Label",
+    "timestamp": "2026-04-23T04:11:25.450Z",
+    "innerText": "Rótulos e etiquetas",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-54e8952b elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"54e8952b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-349362de\" data-id=\"349362de\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-939ec51 elementor-widget elementor-widget-heading\" data-id=\"939ec51\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Rótulos e etiquetas</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 135,
+      "width": 1351,
+      "height": 71
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "71px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moaysjbt_lws1vq",
+    "selector": "section.elementor-section",
+    "label": "Toda empresa busca deixar sua marca cons…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/produtos-e-servicos/",
+    "title": "Produtos e serviços – Global Label",
+    "timestamp": "2026-04-23T04:11:26.297Z",
+    "innerText": "Toda empresa busca deixar sua marca consolidada na memória de seu cliente.\n\nE pensando nisso a Global Label vem se aperfeiçoando com as novas tecnologias do mercado flexográfico para atender suas necessidades.\n\nEstamos preparados para produzir rótulos com até 8 cores em tintas com tratamento UV, o que agrega um alto valor no produto final.\n\nDesenvolvemos rótulos auto-adesivos em diversos tipos de substratos (papéis): couché e couché duplo uso, BOPP transparente, fosco,  brilho, metalizado e  perolizado.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-74b021f elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"74b021f\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1034b8a9\" data-id=\"1034b8a9\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-9a88e76 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"9a88e76\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e098979\" data-id=\"e098979\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-dc40d4f elementor-widget elementor-widget-image\" data-id=\"dc40d4f\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"683\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907-1024x683.jpg\" class=\"attachment-large size-large wp-image-265\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907-1024x683.jpg 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907-300x200.jpg 300w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907-768x512.jpg 768w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907-1568x1045.jpg 1568w, https://www.globallabel.com.br/wp-content/uploads/2019/05/IMG_9907.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-56cb5549\" data-id=\"56cb5549\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-a4e282d elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"a4e282d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-842ea9c\" data-id=\"842ea9c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-130f107d elementor-widget elementor-widget-text-editor\" data-id=\"130f107d\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Toda empresa busca deixar sua marca consolidada na memória de seu cliente.</p><p>E pensando nisso a Global Label vem se aperfeiçoando com as novas tecnologias do mercado flexográfico para atender suas necessidades.</p><p>Estamos preparados para produzir rótulos com até 8 cores em tintas com tratamento <em>UV</em>, o que agrega um alto valor no produto final.</p><p>Desenvolvemos rótulos auto-adesivos em diversos tipos de substratos (papéis): <em>couché</em> e <em>couché duplo uso</em>, <em>BOPP</em> <em>transparente, fosco,&nbsp; brilho, metalizado e&nbsp; perolizado.</em></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 206,
+      "width": 1351,
+      "height": 411
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "410.906px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayslkj_e1timg",
+    "selector": "section.elementor-section",
+    "label": "Formatos especiais Fabricamos também rót…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/produtos-e-servicos/",
+    "title": "Produtos e serviços – Global Label",
+    "timestamp": "2026-04-23T04:11:29.203Z",
+    "innerText": "Formatos especiais\n\nFabricamos também rótulos, etiquetas brancas e coloridas em qualquer tamanho e formato.\n\n ",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-58d6dccb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"58d6dccb\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2907e588\" data-id=\"2907e588\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6b8c85af elementor-widget elementor-widget-heading\" data-id=\"6b8c85af\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Formatos especiais</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-bdeb6d7 elementor-widget elementor-widget-text-editor\" data-id=\"bdeb6d7\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Fabricamos também rótulos, etiquetas brancas e coloridas em qualquer tamanho e formato.</p><p>&nbsp;</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 174,
+      "width": 1351,
+      "height": 186
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "185.781px",
+      "padding": "5px 0px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0.49) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padra%CC%83o-cor-home-1.png\") repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-16 .elementor-element.elementor-element-58d6dccb:not(.elementor-motion-effects-element-type-background), .elementor-16 .elementor-element.elementor-element-58d6dccb > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgba(0, 0, 0, 0.49); background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padrão-cor-home-1.png\");",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-16 .elementor-element.elementor-element-58d6dccb",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 5px 0px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-16 .elementor-element.elementor-element-58d6dccb",
+        "css": "padding: 100px 25px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-16 .elementor-element.elementor-element-58d6dccb",
+        "css": "padding: 50px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  }
+]

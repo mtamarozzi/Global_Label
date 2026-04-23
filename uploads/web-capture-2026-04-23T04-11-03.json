@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "cap_moayr86i_fyic0h",
+    "selector": "section.elementor-section",
+    "label": "Quem somos",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:25.194Z",
+    "innerText": "Quem somos",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-760f4199 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"760f4199\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-418fdb7d\" data-id=\"418fdb7d\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6e1caba elementor-widget elementor-widget-heading\" data-id=\"6e1caba\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Quem somos</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 38,
+      "width": 1351,
+      "height": 244
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "244px",
+      "padding": "87px 117px 77px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/04/Fullbanner-home.png\") no-repeat scroll 50% 50% / 100% padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199:not(.elementor-motion-effects-element-type-background), .elementor-83 .elementor-element.elementor-element-760f4199 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/04/Fullbanner-home.png\"); background-position: center center; background-repeat: no-repeat; background-size: 100%;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 87px 117px 77px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199",
+        "css": "padding: 100px 10px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199:not(.elementor-motion-effects-element-type-background), .elementor-83 .elementor-element.elementor-element-760f4199 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-repeat: no-repeat; background-size: cover;",
+        "media": "(max-width: 767px)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199",
+        "css": "padding: 70px 10px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayr9ca_qc3x3h",
+    "selector": "div.elementor-widget-wrap",
+    "label": "Quem somos",
+    "tag": "div",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:26.698Z",
+    "innerText": "Quem somos",
+    "outerHTML": "<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6e1caba elementor-widget elementor-widget-heading\" data-id=\"6e1caba\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Quem somos</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>",
+    "rect": {
+      "x": 117,
+      "y": 125,
+      "width": 1117,
+      "height": 80
+    },
+    "computedStyles": {
+      "display": "flex",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1117px",
+      "height": "80px",
+      "padding": "10px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "flex-wrap": "wrap",
+      "justify-content": "center",
+      "align-items": "center",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-widget-wrap",
+        "css": "align-content: flex-start; flex-wrap: wrap; position: relative; width: 100%;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap",
+        "css": "display: flex;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-column-gap-default > .elementor-column > .elementor-element-populated",
+        "css": "padding: 10px;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-760f4199 > .elementor-container > .elementor-column > .elementor-widget-wrap",
+        "css": "align-content: center; align-items: center;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-418fdb7d.elementor-column.elementor-element[data-element_type=\"column\"] > .elementor-widget-wrap.elementor-element-populated",
+        "css": "align-content: center; align-items: center;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-418fdb7d.elementor-column > .elementor-widget-wrap",
+        "css": "justify-content: center;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayra6m_knmbts",
+    "selector": "section.elementor-section",
+    "label": "Embora sejamos uma empresa jovem, a Glob…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:27.790Z",
+    "innerText": "\n\n\nEmbora sejamos uma empresa jovem, a Global Label foi fundada em 2014, nossos sócios possuem mais de 25 anos de experiência no segmento gráfico.\n\nTrazemos ao mercado um conceito bem fundamentado, onde nossas prioridades se baseiam na excelência de atendimento aos nossos clientes e na qualidade dos produtos e serviços que oferecemos. Para isso, investimos constantemente em novas tecnologias para entregar o melhor material para você.\n\nAtuamos com todos os tipos de rótulos autoadesivos e etiquetas, atendendo clientes de diversos segmentos e em todo território nacional. ",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-7611bef1 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"7611bef1\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5a988f1c\" data-id=\"5a988f1c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-189e614 elementor-widget elementor-widget-video\" data-id=\"189e614\" data-element_type=\"widget\" data-settings=\"{&quot;video_type&quot;:&quot;hosted&quot;,&quot;start&quot;:1,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}\" data-widget_type=\"video.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"e-hosted-video elementor-wrapper elementor-open-inline\">\n\t\t\t\t\t<video class=\"elementor-video\" src=\"https://www.globallabel.com.br/wp-content/uploads/2025/05/Institucional-GL-2024-2.mp4#t=1\" autoplay=\"\" controls=\"\" muted=\"muted\" controlslist=\"nodownload\"></video>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b98dd3\" data-id=\"2b98dd3\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-ec957cc elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ec957cc\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-42c9ab2\" data-id=\"42c9ab2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e200dd1 elementor-widget elementor-widget-text-editor\" data-id=\"e200dd1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p><br></p><p>Embora sejamos uma empresa jovem, a Global Label foi fundada em 2014, nossos sócios possuem mais de 25 anos de experiência no segmento gráfico.</p>\n<p>Trazemos ao mercado um conceito bem fundamentado, onde nossas prioridades se baseiam na excelência de atendimento aos nossos clientes e na qualidade dos produtos e serviços que oferecemos. Para isso, investimos constantemente em novas tecnologias para entregar o melhor material para você.</p>\n<p>Atuamos com todos os tipos de rótulos autoadesivos e etiquetas, atendendo clientes de diversos segmentos e em todo território nacional.&nbsp;</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-301acb3 elementor-widget elementor-widget-image\" data-id=\"301acb3\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"250\" height=\"126\" src=\"https://www.globallabel.com.br/wp-content/uploads/2025/05/selos-1.jpg\" class=\"attachment-full size-full wp-image-662\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 282,
+      "width": 1351,
+      "height": 462
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "462.141px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrff8_xqrddo",
+    "selector": "section.elementor-section",
+    "label": "“A Global Label é especializada na Fabri…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:34.580Z",
+    "innerText": "“A Global Label é especializada na Fabricação de Rótulos e Etiquetas Adesivas e temos como prioridade o atendimento aos requisitos dos nossos clientes e outros requisitos aplicáveis, fornecendo produtos e serviços de alta qualidade, utilizando mão de obra qualificada, provedores externos que atendam os requisitos de qualidade e prazo, sempre buscando e melhorando continuamente nossos processos e produtos, tendo como objetivo entregar o melhor material, para que possamos deixar nossa marca consolidada na memória dos nossos clientes e garantir à sua satisfação”.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-3d575eb elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"3d575eb\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4ded8fd\" data-id=\"4ded8fd\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-abc123d elementor-widget elementor-widget-image\" data-id=\"abc123d\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"217\" src=\"https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde-300x217.png\" class=\"attachment-medium size-medium wp-image-712\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde-300x217.png 300w, https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde-1024x741.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde-768x556.png 768w, https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde-1536x1112.png 1536w, https://www.globallabel.com.br/wp-content/uploads/2025/06/Selo_retangular_verde.png 1992w\" sizes=\"(max-width: 300px) 100vw, 300px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7fe4bfe\" data-id=\"7fe4bfe\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e4dd769 elementor-widget elementor-widget-text-editor\" data-id=\"e4dd769\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>“A Global Label é especializada na Fabricação de Rótulos e Etiquetas Adesivas e temos como prioridade o atendimento aos requisitos dos nossos clientes e outros requisitos aplicáveis, fornecendo produtos e serviços de alta qualidade, utilizando mão de obra qualificada, provedores externos que atendam os requisitos de qualidade e prazo, sempre buscando e melhorando continuamente nossos processos e produtos, tendo como objetivo entregar o melhor material, para que possamos deixar nossa marca consolidada na memória dos nossos clientes e garantir à sua satisfação”.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 184,
+      "width": 1351,
+      "height": 237
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "237px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrh40_cyfg6y",
+    "selector": "section.elementor-section",
+    "label": "Missão, visão e valores MISSÃO Fornecer …",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:36.768Z",
+    "innerText": "Missão, visão e valores\n\nMISSÃO\n\nFornecer produtos de alta qualidade e atendimento personalizado a todos clientes, agregando valor no produto final.\n\nVISÃO\n\nSer uma referência nacional no mercado gráfico de flexografia.\n\nVALORES\n\nÉtica, respeito e honestidade\nPaixão pela flexografia\nQualidade assegurada\nInovação constante\nResponsabilidade com o meio ambiente\nResponsabilidade com o capital humano",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-ecb1c48 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ecb1c48\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f174067\" data-id=\"f174067\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-8e7f33b elementor-widget elementor-widget-heading\" data-id=\"8e7f33b\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Missão, visão e valores</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d7d87f6 elementor-widget elementor-widget-text-editor\" data-id=\"d7d87f6\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p><strong>MISSÃO</strong></p><p>Fornecer produtos de alta qualidade e atendimento personalizado a todos clientes, agregando valor no produto final.</p><p><strong>VISÃO</strong></p><p>Ser uma referência nacional no mercado gráfico de flexografia.</p><p><strong>VALORES</strong></p><ul><li>Ética, respeito e honestidade</li><li>Paixão pela flexografia</li><li>Qualidade assegurada</li><li>Inovação constante</li><li>Responsabilidade com o meio ambiente</li><li>Responsabilidade com o capital humano</li></ul>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 29,
+      "width": 1351,
+      "height": 547
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "547.297px",
+      "padding": "5px 0px 5px 15px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0.47) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padra%CC%83o-cor-home-1.png\") repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-ecb1c48:not(.elementor-motion-effects-element-type-background), .elementor-83 .elementor-element.elementor-element-ecb1c48 > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgba(0, 0, 0, 0.47); background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padrão-cor-home-1.png\");",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-ecb1c48",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 5px 0px 5px 15px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-ecb1c48",
+        "css": "padding: 100px 25px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-ecb1c48",
+        "css": "padding: 50px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrlqy_xn74jm",
+    "selector": "section.elementor-section",
+    "label": "Áreas de atuação",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:42.778Z",
+    "innerText": "Áreas de atuação",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-0fc6088 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"0fc6088\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d204c44\" data-id=\"d204c44\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-87fadcb elementor-widget elementor-widget-heading\" data-id=\"87fadcb\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Áreas de atuação</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 102,
+      "width": 1351,
+      "height": 77
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "77px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrmf0_qv2w5d",
+    "selector": "section.elementor-section",
+    "label": "Alimentício Cosméticos Químico e Farmacê…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:43.644Z",
+    "innerText": "Alimentício\n\nCosméticos\n\nQuímico e Farmacêutico",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-89ef648 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"89ef648\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3635488\" data-id=\"3635488\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-205b1b7 elementor-widget elementor-widget-image\" data-id=\"205b1b7\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-1024x1024.png\" class=\"attachment-large size-large wp-image-369\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-14-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9033f27 elementor-widget elementor-widget-text-editor\" data-id=\"9033f27\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Alimentício</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ded0013\" data-id=\"ded0013\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-dba11cd elementor-widget elementor-widget-image\" data-id=\"dba11cd\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-1024x1024.png\" class=\"attachment-large size-large wp-image-384\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-02-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0521ca9 elementor-widget elementor-widget-text-editor\" data-id=\"0521ca9\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Cosméticos</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-11bffdf\" data-id=\"11bffdf\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-8fc7eea elementor-widget elementor-widget-image\" data-id=\"8fc7eea\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-1024x1024.png\" class=\"attachment-large size-large wp-image-379\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-05-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-05ea511 elementor-widget elementor-widget-text-editor\" data-id=\"05ea511\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Químico e Farmacêutico</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 179,
+      "width": 1351,
+      "height": 373
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "373.172px",
+      "padding": "0px 50px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-89ef648",
+        "css": "padding: 0px 50px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayro1w_mz7hac",
+    "selector": "section.elementor-section",
+    "label": "Automotivo Embalagens Promocional",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:45.765Z",
+    "innerText": "Automotivo\n\nEmbalagens\n\nPromocional",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-46a0e40 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"46a0e40\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4162d68\" data-id=\"4162d68\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-c3cf138 elementor-widget elementor-widget-image\" data-id=\"c3cf138\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-1024x1024.png\" class=\"attachment-large size-large wp-image-383\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-03-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e96c90d elementor-widget elementor-widget-text-editor\" data-id=\"e96c90d\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Automotivo</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9facff6\" data-id=\"9facff6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-42af886 elementor-widget elementor-widget-image\" data-id=\"42af886\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-1024x1024.png\" class=\"attachment-large size-large wp-image-622\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-09-1-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-08ffb9a elementor-widget elementor-widget-text-editor\" data-id=\"08ffb9a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Embalagens</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d344e53\" data-id=\"d344e53\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-d263a01 elementor-widget elementor-widget-image\" data-id=\"d263a01\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-1024x1024.png\" class=\"attachment-large size-large wp-image-372\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-11-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4b19309 elementor-widget elementor-widget-text-editor\" data-id=\"4b19309\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Promocional</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1351,
+      "height": 373
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "373.172px",
+      "padding": "0px 50px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-46a0e40",
+        "css": "padding: 0px 50px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrp00_8s0jzu",
+    "selector": "section.elementor-section",
+    "label": "Gráficas e Editoras Brinquedos Limpeza",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:46.992Z",
+    "innerText": "Gráficas e Editoras\n\nBrinquedos\n\nLimpeza",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-13c8afd elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"13c8afd\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1f9f917\" data-id=\"1f9f917\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-218b265 elementor-widget elementor-widget-image\" data-id=\"218b265\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-1024x1024.png\" class=\"attachment-large size-large wp-image-373\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-10-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8de5e16 elementor-widget elementor-widget-text-editor\" data-id=\"8de5e16\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Gráficas e Editoras</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ef0db08\" data-id=\"ef0db08\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-936395e elementor-widget elementor-widget-image\" data-id=\"936395e\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-1024x1024.png\" class=\"attachment-large size-large wp-image-375\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-08-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-287560a elementor-widget elementor-widget-text-editor\" data-id=\"287560a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Brinquedos</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d05cf8d\" data-id=\"d05cf8d\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-73ec871 elementor-widget elementor-widget-image\" data-id=\"73ec871\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-1024x1024.png\" class=\"attachment-large size-large wp-image-368\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-15-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c4e18cc elementor-widget elementor-widget-text-editor\" data-id=\"c4e18cc\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Limpeza</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 13,
+      "width": 1351,
+      "height": 373
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "373.172px",
+      "padding": "0px 50px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-13c8afd",
+        "css": "padding: 0px 50px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrrg6_uyvram",
+    "selector": "section.elementor-section",
+    "label": "Higiene Agro Veterinário e Pet",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:50.166Z",
+    "innerText": "Higiene\n\nAgro\n\nVeterinário e Pet",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-09e23ec elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"09e23ec\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-590fde4\" data-id=\"590fde4\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-85aa01a elementor-widget elementor-widget-image\" data-id=\"85aa01a\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-1024x1024.png\" class=\"attachment-large size-large wp-image-382\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-04-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-08cabda elementor-widget elementor-widget-text-editor\" data-id=\"08cabda\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Higiene</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b1a4447\" data-id=\"b1a4447\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6a884da elementor-widget elementor-widget-image\" data-id=\"6a884da\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-1024x1024.png\" class=\"attachment-large size-large wp-image-623\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-12-1-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-60b32f7 elementor-widget elementor-widget-text-editor\" data-id=\"60b32f7\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Agro</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5e57d4a\" data-id=\"5e57d4a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-454dc8f elementor-widget elementor-widget-image\" data-id=\"454dc8f\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-1024x1024.png\" class=\"attachment-large size-large wp-image-376\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-07-1568x1568.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-97e1471 elementor-widget elementor-widget-text-editor\" data-id=\"97e1471\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Veterinário e Pet</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": -25,
+      "width": 1351,
+      "height": 373
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "373.172px",
+      "padding": "0px 50px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-09e23ec",
+        "css": "padding: 0px 50px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrso2_n196xn",
+    "selector": "section.elementor-section",
+    "label": "Frigorífico Bebidas Segurança",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:51.746Z",
+    "innerText": "Frigorífico\n\nBebidas\n\nSegurança",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-a86f281 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"a86f281\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-da7b811\" data-id=\"da7b811\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1ed22ad elementor-widget elementor-widget-image\" data-id=\"1ed22ad\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-1024x1024.png\" class=\"attachment-large size-large wp-image-377\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-06-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-95af32a elementor-widget elementor-widget-text-editor\" data-id=\"95af32a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Frigorífico</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b3dac27\" data-id=\"b3dac27\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1e852e7 elementor-widget elementor-widget-image\" data-id=\"1e852e7\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-1024x1024.png\" class=\"attachment-large size-large wp-image-370\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-13-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-16a8e77 elementor-widget elementor-widget-text-editor\" data-id=\"16a8e77\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Bebidas</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-684c84c\" data-id=\"684c84c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-ba12af8 elementor-widget elementor-widget-image\" data-id=\"ba12af8\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" src=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-1024x1024.png\" class=\"attachment-large size-large wp-image-367\" alt=\"\" srcset=\"https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-1024x1024.png 1024w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-150x150.png 150w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-300x300.png 300w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-768x768.png 768w, https://www.globallabel.com.br/wp-content/uploads/2019/06/ICONES-16-1568x1569.png 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5e647f1 elementor-widget elementor-widget-text-editor\" data-id=\"5e647f1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Segurança</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 146,
+      "width": 1351,
+      "height": 373
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "373.172px",
+      "padding": "0px 50px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-a86f281",
+        "css": "padding: 0px 50px;",
+        "media": "all"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrttc_dkv8pj",
+    "selector": "section.elementor-section",
+    "label": "Sustentabilidade Nossos produtos são des…",
+    "tag": "section",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:53.232Z",
+    "innerText": "Sustentabilidade\n\nNossos produtos são descartados de forma sustentável através de um empresa especializada em coleta seletiva.\n\nOs chamados “esqueletos” das bobinas dos rótulos auto-adesivos são coletados semanalmente e destinados a trituração de forma que nada seja lançado na natureza e também de forma a garantir que nada fique exposto com o nome de nossos clientes ou nome do produto.",
+    "outerHTML": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-045381c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"045381c\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5182f32\" data-id=\"5182f32\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-32055cc elementor-widget elementor-widget-heading\" data-id=\"32055cc\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Sustentabilidade</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9cc2d5f elementor-widget elementor-widget-text-editor\" data-id=\"9cc2d5f\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Nossos produtos são descartados de forma sustentável através de um empresa especializada em coleta seletiva.</p><p>Os chamados “esqueletos” das bobinas dos rótulos auto-adesivos são coletados semanalmente e destinados a trituração de forma que nada seja lançado na natureza e também de forma a garantir que nada fique exposto com o nome de nossos clientes ou nome do produto.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>",
+    "rect": {
+      "x": 0,
+      "y": 121,
+      "width": 1351,
+      "height": 222
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "222.172px",
+      "padding": "5px 0px",
+      "border": "0px none rgb(146, 146, 146)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0.47) url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padra%CC%83o-cor-home-1.png\") repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-045381c:not(.elementor-motion-effects-element-type-background), .elementor-83 .elementor-element.elementor-element-045381c > .elementor-motion-effects-container > .elementor-motion-effects-layer",
+        "css": "background-color: rgba(0, 0, 0, 0.47); background-image: url(\"https://www.globallabel.com.br/wp-content/uploads/2019/03/padrão-cor-home-1.png\");",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-045381c",
+        "css": "transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; padding: 5px 0px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-045381c",
+        "css": "padding: 100px 25px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-045381c",
+        "css": "padding: 50px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moayrvvg_218x7d",
+    "selector": "footer.elementor-section",
+    "label": "Home Quem somos Produtos e serviços Proc…",
+    "tag": "footer",
+    "url": "https://www.globallabel.com.br/quem-somos/",
+    "title": "Quem somos – Global Label",
+    "timestamp": "2026-04-23T04:10:55.900Z",
+    "innerText": "Home\nQuem somos\nProdutos e serviços\nProcessos de qualidade\nContato\nTrabalhe conosco\n\nR. Campos Salles, 344 – Vila Sao Sebastiao, Valinhos – SP\n\nValinhos/SP\n\n+55 19 3327 8858\n\nFacebook\n \nInstagram\n \nLinkedin",
+    "outerHTML": "<footer class=\"elementor-section elementor-top-section elementor-element elementor-element-3d8608a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"3d8608a7\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3e80a38a\" data-id=\"3e80a38a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1e1a36c2 elementor-widget elementor-widget-image\" data-id=\"1e1a36c2\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" src=\"https://www.globallabel.com.br/wp-content/uploads/elementor/thumbs/GLOBAL-LABEL_ESTUDO-MARCA_OPÇÃO-07_Prancheta-1-cópia-6-o61afib6cxttqz1sw8pycgkbashs3lu745n5po9la8.png\" title=\"Global-Label-02\" alt=\"Logo\" loading=\"lazy\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-56037c14\" data-id=\"56037c14\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-45cb6af9 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"45cb6af9\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b2beac8\" data-id=\"b2beac8\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4c9ff528 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"4c9ff528\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Home</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/quem-somos/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Quem somos</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/produtos-e-servicos/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Produtos e serviços</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/processos-de-qualidade/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Processos de qualidade</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/contato/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Contato</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.globallabel.com.br/trabalhe-conosco/\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-caret-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Trabalhe conosco</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0c3f8b7\" data-id=\"0c3f8b7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7c56c49 elementor-widget elementor-widget-text-editor\" data-id=\"7c56c49\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>R. Campos Salles, 344 – Vila Sao Sebastiao, Valinhos – SP</p><p>Valinhos/SP</p><p>+55 19 3327 8858</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b9c2619 elementor-shape-circle e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons\" data-id=\"b9c2619\" data-element_type=\"widget\" data-widget_type=\"social-icons.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-social-icons-wrapper elementor-grid\" role=\"list\">\n\t\t\t\t\t\t\t<span class=\"elementor-grid-item\" role=\"listitem\">\n\t\t\t\t\t<a class=\"elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pop elementor-repeater-item-3d4d16f\" href=\"https://www.facebook.com/globallabelbrazil/\" target=\"_blank\">\n\t\t\t\t\t\t<span class=\"elementor-screen-only\">Facebook</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"elementor-grid-item\" role=\"listitem\">\n\t\t\t\t\t<a class=\"elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pop elementor-repeater-item-b9433ea\" href=\"https://www.instagram.com/globallabelbrazil/\" target=\"_blank\">\n\t\t\t\t\t\t<span class=\"elementor-screen-only\">Instagram</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"elementor-grid-item\" role=\"listitem\">\n\t\t\t\t\t<a class=\"elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-pop elementor-repeater-item-5a5000e\" href=\"https://www.linkedin.com/company/global-label-brasil\" target=\"_blank\">\n\t\t\t\t\t\t<span class=\"elementor-screen-only\">Linkedin</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-linkedin\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t</span>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ad588cd elementor-widget elementor-widget-image\" data-id=\"ad588cd\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"250\" height=\"126\" src=\"https://www.globallabel.com.br/wp-content/uploads/2025/05/selinhos.jpg\" class=\"attachment-large size-large wp-image-691\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</footer>",
+    "rect": {
+      "x": 0,
+      "y": 81,
+      "width": 1351,
+      "height": 468
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1351px",
+      "height": "467.812px",
+      "padding": "50px 0px",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(146, 146, 146)",
+      "font-family": "\"Open Sans\", sans-serif",
+      "font-size": "14px",
+      "line-height": "25.2px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video",
+        "css": "margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, main, nav, section",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary",
+        "css": "display: block;",
+        "media": "all"
+      },
+      {
+        "selector": "*",
+        "css": "background: transparent !important; box-shadow: none !important; text-shadow: none !important;",
+        "media": "print"
+      },
+      {
+        "selector": ".elementor *, .elementor ::after, .elementor ::before",
+        "css": "box-sizing: border-box;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; align-self: var(--align-self); flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order);",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-section",
+        "css": "position: relative;",
+        "media": "all"
+      },
+      {
+        "selector": "html *",
+        "css": "transition-delay: 0s !important; transition-duration: 0s !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      },
+      {
+        "selector": ".elementor-element",
+        "css": "--widgets-spacing: 20px 20px; --widgets-spacing-row: 20px; --widgets-spacing-column: 20px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-3d8608a7",
+        "css": "border-style: solid; border-width: 3px 0px 0px; border-color: rgb(122, 122, 122); padding: 50px 0px;",
+        "media": "all"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-3d8608a7",
+        "css": "padding: 30px 20px;",
+        "media": "(max-width: 1024px)"
+      },
+      {
+        "selector": ".elementor-83 .elementor-element.elementor-element-3d8608a7",
+        "css": "padding: 30px 20px;",
+        "media": "(max-width: 767px)"
+      }
+    ]
+  }
+]
