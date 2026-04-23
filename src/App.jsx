@@ -8,6 +8,7 @@ import Industries from './components/Industries'
 import Quality from './components/Quality'
 import ContactCTA from './components/ContactCTA'
 import Footer from './components/Footer'
+import ChatWidget from './components/ChatWidget'
 
 function App() {
   useEffect(() => {
@@ -53,6 +54,7 @@ function App() {
         <ContactCTA />
       </main>
       <Footer />
+      <ChatWidget />
     </>
   )
 }
