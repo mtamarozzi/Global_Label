@@ -61,7 +61,7 @@ Reconstrução completa da **landing page da Global Label** — originalmente de
 
 ### 3.4 — Construção dos Componentes React
 
-Foram criados **9 componentes modulares** na pasta `src/components/`:
+Foram criados **11 componentes modulares** na pasta `src/components/`:
 
 #### [Header.jsx](file:///c:/Users/User/Documents/Global_site/src/components/Header.jsx)
 - Barra de navegação flutuante com efeito glass ao rolar
@@ -105,11 +105,28 @@ Foram criados **9 componentes modulares** na pasta `src/components/`:
 - Feedback visual de envio (botão muda para "Recebido ✓" com gradiente verde)
 - Informações de contato: endereço e telefone
 
+#### [QuoteModal.jsx](file:///c:/Users/User/Documents/Global_site/src/components/QuoteModal.jsx)
+- **Popup modal glassmorphism** acionado pelos botões "Solicitar orçamento" (Header) e "Iniciar projeto" (Hero)
+- Campos: Nome, WhatsApp (com formatação automática `(XX) XXXXX-XXXX`), E-mail e Descrição da etiqueta/produto
+- Ícones inline nos campos de WhatsApp e E-mail com animação de cor no focus
+- Botão de envio com efeito shimmer e gradiente laranja
+- **Estado de sucesso animado** com ícone pulsante e fechamento automático após 3 segundos
+- Acessibilidade completa: fecha com `Escape`, `aria-modal`, bloqueio de scroll do body, foco automático no primeiro campo
+- Overlay com `backdrop-filter: blur(12px)` e fechamento ao clicar fora do modal
+
 #### [Footer.jsx](file:///c:/Users/User/Documents/Global_site/src/components/Footer.jsx)
 - Layout em **2 colunas** (inspiração fornecida pelo cliente):
   - **Esquerda:** Logo oficial (110px, mesma proporção do Hero), tagline, grid de links (Navegação, Empresa, Sede) e ícones sociais
   - **Direita:** Mapa interativo do Google Maps com filtro dark-mode (`invert + hue-rotate`) apontando para R. Campos Salles, 344 – Valinhos/SP
 - Barra inferior com copyright
+
+#### [ThemeToggle.jsx](file:///c:/Users/User/Documents/Global_site/src/components/ThemeToggle.jsx)
+- **Botão de alternância Light/Dark** com ícones animados de sol (☀️) e lua (🌙)
+- Detecta automaticamente a **preferência do sistema operacional** (`prefers-color-scheme`) na primeira visita
+- Persiste a escolha do usuário no `localStorage` para manter consistência entre sessões
+- Aplica `data-theme="light"` ou `data-theme="dark"` no elemento `<html>` para ativar as sobrescritas de CSS
+- Transição suave entre temas com animação de rotação nos ícones
+- Integrado na barra de navegação, entre os links e o botão "Solicitar orçamento"
 
 ### 3.5 — Integração dos Ativos Visuais
 - Logo oficial (`Logo.png`) copiada para `public/images/` e utilizada no Header e Footer
@@ -166,7 +183,7 @@ Global_site/
 ├── src/
 │   ├── main.jsx                  # Ponto de entrada React
 │   ├── App.jsx                   # Componente raiz + scroll observer
-│   ├── index.css                 # Design system completo (~26KB)
+│   ├── index.css                 # Design system completo (~34KB, inclui light mode)
 │   └── components/
 │       ├── Header.jsx            # Nav flutuante com auto-hide
 │       ├── Hero.jsx              # Seção principal + cards 3D
@@ -176,6 +193,8 @@ Global_site/
 │       ├── Industries.jsx        # Marquee de setores
 │       ├── Quality.jsx           # Processos + métricas
 │       ├── ContactCTA.jsx        # Formulário de contato
+│       ├── QuoteModal.jsx        # Popup de orçamento
+│       ├── ThemeToggle.jsx       # Toggle Light/Dark mode
 │       └── Footer.jsx            # Rodapé + mapa
 │
 ├── Global_Imagens/               # Acervo original de referência
@@ -199,6 +218,13 @@ Global_site/
 | Logo com redução fluida | `height` condicional por estado `scrolled` |
 | Formulário com feedback | `onSubmit` → troca de texto e cor do botão |
 | Mapa dark-mode | `filter: invert(90%) hue-rotate(180deg) grayscale(80%)` |
+| Modal de orçamento com glassmorphism | Estado global via `useState` no `App.jsx` → prop drilling para Header e Hero |
+| Formatação automática de WhatsApp | Máscara `(XX) XXXXX-XXXX` via regex no `onChange` |
+| Feedback de envio com auto-close | Estado `submitted` → animação de sucesso → `setTimeout(3s)` → `onClose()` |
+| **Modo Light/Dark com transição** | `data-theme` no `<html>` → CSS overrides `[data-theme="light"]` para ~50 seletores |
+| **Detecção de preferência do sistema** | `matchMedia('prefers-color-scheme')` + fallback `localStorage` |
+| **Anti-flash de tema** | Script inline no `<head>` do HTML aplica tema antes do React hidratar |
+| **Toggle animado sol/lua** | Rotação 90° + escala com `opacity` cruzada entre ícones SVG |
 
 ---
 
@@ -229,6 +255,15 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
 
 4. **Footer / Mapa:** Evolução de layout em 4 colunas → layout 2 colunas (conteúdo | mapa) seguindo referência visual fornecida pelo cliente. Mapa ampliado de 180px → 300px → `flexGrow: 1` (altura total da coluna).
 
+5. **Modo Light/Dark:** Implementação completa de tema claro como alternativa ao tema escuro original. A abordagem utiliza `[data-theme="light"]` no CSS para sobrescrever ~270 linhas de tokens e seletores, mantendo 100% do dark mode intacto. Inclui:
+   - **11 tokens de cor invertidos** (ink, fg, line, brand)
+   - **~50 seletores CSS sobrescritos** para todos os componentes
+   - **Detecção automática** da preferência do SO do visitante
+   - **Persistência** da escolha via `localStorage`
+   - **Script anti-flash** no `<head>` para aplicar o tema antes do render
+   - **Mapa do Google Maps** sem filtro de inversão no modo claro
+   - **Logo adaptada** via `filter: brightness()` para fundo claro
+
 ---
 
 ## 8. Links Finais
@@ -250,7 +285,8 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
 - [ ] **Formulário funcional** — Integrar envio de e-mail (Resend, SendGrid ou Supabase Edge Function)
 - [ ] **Analytics** — Adicionar Google Analytics ou Vercel Analytics
 - [ ] **Novas páginas** — Criar rotas para Portfólio, Blog ou Área do Cliente via `react-router`
+- [x] **Modo Light/Dark** — Toggle de tema com detecção de preferência do sistema ✅
 
 ---
 
-*Documento gerado em 23 de Abril de 2026 · Projeto Global Label 2.0*
+*Documento atualizado em 24 de Abril de 2026 · Projeto Global Label 2.0*

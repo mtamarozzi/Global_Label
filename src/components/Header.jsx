@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
+import ThemeToggle from './ThemeToggle';
 
-export default function Header() {
+export default function Header({ onQuoteClick }) {
   const [scrolled, setScrolled] = useState(false);
   const [hidden, setHidden] = useState(false);
 
@@ -75,13 +76,15 @@ export default function Header() {
         
         <button className="menu-btn" aria-label="Menu" style={{ marginLeft: 0, marginRight: '24px' }}>Menu</button>
         
-        <a className="nav-cta" href="#contact">
+        <ThemeToggle />
+        
+        <button className="nav-cta" onClick={onQuoteClick} type="button">
           Solicitar orçamento
           <svg className="arr icn" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
             <path d="M5 12h14" />
             <path d="m13 5 7 7-7 7" />
           </svg>
-        </a>
+        </button>
       </nav>
     </header>
   );

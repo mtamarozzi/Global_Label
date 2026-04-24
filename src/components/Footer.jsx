@@ -79,7 +79,8 @@ export default function Footer() {
               color: 'var(--fg-dim)',
               marginBottom: '16px'
             }}>Localização</h4>
-            <iframe 
+            <iframe
+              className="map-frame"
               src="https://maps.google.com/maps?q=R.+Campos+Salles,+344+-+Vila+Sao+Sebastiao,+Valinhos+-+SP&t=&z=15&ie=UTF8&iwloc=&output=embed" 
               width="100%" 
               style={{ 

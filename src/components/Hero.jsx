@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-export default function Hero() {
+export default function Hero({ onQuoteClick }) {
   useEffect(() => {
     const hv = document.querySelector('.hero-visual');
     const stack = hv?.querySelector('.label-stack');
@@ -57,13 +57,13 @@ export default function Hero() {
             Fabricamos rótulos adesivos e etiquetas de alta fidelidade para indústrias que competem no centímetro quadrado. Cor gerenciada, acabamentos premium e produção rastreável — entregues na velocidade do seu go-to-market.
           </p>
           <div className="hero-cta reveal d3">
-            <a className="btn" href="#contact">
+            <button className="btn" onClick={onQuoteClick} type="button">
               Iniciar projeto
               <svg className="arr icn" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M5 12h14" />
                 <path d="m13 5 7 7-7 7" />
               </svg>
-            </a>
+            </button>
             <a className="btn ghost" href="#products">
               <svg className="icn" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <polygon points="5 3 19 12 5 21 5 3" />

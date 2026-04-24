@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import LogoStrip from './components/LogoStrip'
@@ -9,8 +9,11 @@ import Quality from './components/Quality'
 import ContactCTA from './components/ContactCTA'
 import Footer from './components/Footer'
 import ChatWidget from './components/ChatWidget'
+import QuoteModal from './components/QuoteModal'
 
 function App() {
+  const [quoteOpen, setQuoteOpen] = useState(false);
+
   useEffect(() => {
     // Scroll reveal logic
     const io = new IntersectionObserver((entries) => {
@@ -41,11 +44,14 @@ function App() {
     };
   }, []);
 
+  const openQuote = () => setQuoteOpen(true);
+  const closeQuote = () => setQuoteOpen(false);
+
   return (
     <>
-      <Header />
+      <Header onQuoteClick={openQuote} />
       <main>
-        <Hero />
+        <Hero onQuoteClick={openQuote} />
         <LogoStrip />
         <About />
         <Products />
@@ -55,6 +61,7 @@ function App() {
       </main>
       <Footer />
       <ChatWidget />
+      <QuoteModal isOpen={quoteOpen} onClose={closeQuote} />
     </>
   )
 }

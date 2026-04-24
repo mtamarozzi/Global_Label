@@ -244,9 +244,9 @@ export default function ChatWidget() {
         }
 
         .caw-header {
-          background: linear-gradient(135deg, #05070b 0%, #0d1117 100%);
+          background: linear-gradient(135deg, var(--ink-0, #05070b) 0%, var(--ink-1, #0d1117) 100%);
           padding: 18px 20px;
-          color: white;
+          color: var(--fg, white);
           display: flex;
           align-items: center;
           gap: 12px;
@@ -271,13 +271,13 @@ export default function ChatWidget() {
           font-weight: 700;
           font-family: 'Roboto', sans-serif;
           margin: 0 0 2px;
-          color: white;
+          color: var(--fg, white);
         }
         .caw-header-info span {
           font-size: 12px;
           opacity: 0.8;
           font-weight: 400;
-          color: white;
+          color: var(--fg, white);
         }
         .caw-online {
           display: inline-block;
