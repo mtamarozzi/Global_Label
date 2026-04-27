@@ -280,6 +280,16 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
      - Adição de `box-shadow` combinando reflexos internos (bordas de luz) com uma densa sombra projetada (`drop-shadow`) para descolar o vidro do fundo.
    - **Grid de Produtos:** Reestruturação da grade de Produtos & Serviços em 2 linhas x 3 colunas simétricas, com reordenação numérica rigorosa de 01 a 06 e atualização do texto descritivo oficial de acabamentos premium.
 
+8. **Responsividade Mobile e Menu "Hamburger":**
+   - **Fix da Logo:** Resolvido o problema da logo que ficava "achatada" em telas pequenas através do uso de `flex-shrink: 0` e ajustes de `height` dinâmicos via Media Queries.
+   - **Menu Overlay:** Implementação de um menu mobile funcional. O botão "Menu" agora aciona um overlay glassmorphism em tela cheia com animação de slide, permitindo navegação completa em dispositivos móveis.
+   - **Ajustes de Breakpoints:** Refinamento de diversos elementos para garantir que o design "Liquid Glass" se mantenha legível e elegante em resoluções abaixo de 768px.
+
+9. **Refinamento de Copy e Pontuação:**
+   - **Seção Qualidade:** Revisão do texto institucional para garantir uma leitura mais fluida, ajustando pontuações (uso de vírgulas vs travessões) no parágrafo sobre instrumentos calibrados.
+   - **Seção Contato:** Atualização do texto de briefing e proposta, movendo descrições para o subtítulo e ajustando o tom de voz para ser mais direto e profissional ("Recebemos a proposta em 24h").
+
+
 ---
 
 ## 8. Links Finais
@@ -296,7 +306,7 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
 ## 9. Próximos Passos Sugeridos
 
 - [ ] **Domínio customizado** — Vincular `globallabel.com.br` ao projeto Vercel
-- [ ] **Responsividade mobile** — Refinar breakpoints para telas < 768px
+- [x] **Responsividade mobile** — Menu mobile funcional e fix de distorção de logo ✅
 - [ ] **SEO avançado** — Adicionar meta tags Open Graph e Schema.org
 - [ ] **Formulário funcional** — Integrar envio de e-mail (Resend, SendGrid ou Supabase Edge Function)
 - [ ] **Analytics** — Adicionar Google Analytics ou Vercel Analytics
@@ -305,4 +315,4 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
 
 ---
 
-*Documento atualizado em 27 de Abril de 2026 · Projeto Global Label 2.0*
+*Documento atualizado em 27 de Abril de 2026 (18:15h) · Projeto Global Label 2.0*

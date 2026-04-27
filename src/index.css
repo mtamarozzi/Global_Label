@@ -207,7 +207,7 @@ html[data-theme] .quote-overlay{
 /* ============ LIGHT MODE — PRODUCTS ============ */
 [data-theme="light"] .products{background:transparent}
 [data-theme="light"] .p-card{
-  background:linear-gradient(135deg,rgba(255,255,255,0.60),rgba(255,255,255,0.25));
+  background:linear-gradient(135deg,rgba(255,255,255,0.25),rgba(255,255,255,0.05));
   border:1px solid rgba(255,255,255,0.60);
   box-shadow:
     0 12px 40px -12px rgba(0,0,0,0.15),
@@ -217,7 +217,7 @@ html[data-theme] .quote-overlay{
   -webkit-backdrop-filter:blur(36px) saturate(200%);
 }
 [data-theme="light"] .p-card:hover{
-  background:linear-gradient(135deg,rgba(255,255,255,0.65),rgba(255,255,255,0.40));
+  background:linear-gradient(135deg,rgba(255,255,255,0.30),rgba(255,255,255,0.10));
   border-color:rgba(14,150,208,0.35);
   box-shadow:
     0 16px 48px -12px rgba(14,150,208,0.15),
@@ -252,7 +252,7 @@ html[data-theme] .quote-overlay{
 
 /* ============ LIGHT MODE — QUALITY ============ */
 [data-theme="light"] .q-card{
-  background:linear-gradient(135deg,rgba(255,255,255,0.60),rgba(255,255,255,0.25));
+  background:linear-gradient(135deg,rgba(255,255,255,0.25),rgba(255,255,255,0.05));
   border:1px solid rgba(255,255,255,0.60);
   box-shadow:
     0 12px 40px -12px rgba(0,0,0,0.12),
@@ -263,7 +263,7 @@ html[data-theme] .quote-overlay{
 }
 [data-theme="light"] .q-card:hover{
   border-color:rgba(14,150,208,0.25);
-  background:linear-gradient(135deg,rgba(255,255,255,0.60),rgba(255,255,255,0.38));
+  background:linear-gradient(135deg,rgba(255,255,255,0.30),rgba(255,255,255,0.10));
   box-shadow:
     0 12px 40px -10px rgba(0,0,0,0.10),
     inset 0 1px 0 rgba(255,255,255,0.80),
