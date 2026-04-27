@@ -20,7 +20,7 @@ export default function ContactCTA() {
                 Envie seu briefing.<br />
                 <span className="grad-text-orange">Recebemos a proposta em&nbsp;24&nbsp;h.</span>
               </h2>
-              <p>Conte sobre o produto, tiragem e prazo. Nosso time técnico retorna com material, acabamento e preço — sem ficha de cadastro ou formulário de 30 campos.</p>
+              <p>Conte sobre o produto, tiragem e prazo. Nosso time técnico retorna com material, acabamento e preço. Sem ficha de cadastro ou formulário de 30 campos.</p>
               
               <div style={{
                 display: 'flex', gap: '28px', marginTop: '32px', flexWrap: 'wrap',

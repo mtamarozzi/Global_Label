@@ -8,7 +8,7 @@ export default function Quality() {
             <h2 className="reveal d1">A engenharia que faz a<br /><span className="grad-text">cor chegar exatamente igual.</span></h2>
           </div>
           <div className="right reveal d2">
-            A cada ano investimos em tecnologia, treinamento e controle. Cada etapa é monitorada por instrumentos calibrados — para que o rótulo saia da fábrica igual ao que você aprovou na tela.
+            A cada ano investimos em tecnologia, treinamento e controle. Cada etapa é monitorada por instrumentos calibrados, para que o rótulo saia da fábrica igual ao que você aprovou na tela.
           </div>
         </div>
 
