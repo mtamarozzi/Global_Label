@@ -264,6 +264,13 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
    - **Mapa do Google Maps** sem filtro de inversão no modo claro
    - **Logo adaptada** via `filter: brightness()` para fundo claro
 
+6. **Glassmorphism Apple-Style (Light Mode) e Liquid Glass:** Refinamento visual completo do modo claro para atingir um efeito "Liquid Glass" realista:
+   - **Imagem de Fundo Real:** Inserção da foto `IMG_9907-1024x683.jpg` (processo da gráfica) como background oficial do modo claro, com leve desfoque e transparência para gerar profundidade orgânica.
+   - **Efeito Vidro Avançado:** Aumento drástico do `backdrop-filter: blur(32-40px) saturate(200%)` em todos os cards do light mode, inspirado na estética moderna da Apple.
+   - **Iluminação Interna:** Aplicação de bordas brancas (`inset box-shadow` de 1px) para simular refração de luz no topo das superfícies de vidro translúcidas (`rgba(255,255,255, 0.25-0.65)`).
+   - **Cursor Tracking Visível:** Correção da opacidade e raio de dispersão do gradiente luminoso ("glow") nos cards interativos, subindo a opacidade de 14% para até 55%, tornando o feixe de luz que segue o cursor perfeitamente visível e vibrante mesmo em cima de fundos claros.
+   - O modo escuro (dark) permanece 100% intacto, garantindo experiências ótimas em ambos os temas.
+
 ---
 
 ## 8. Links Finais
