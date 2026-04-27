@@ -29,15 +29,16 @@ export default function Products() {
             </h2>
           </div>
           <div className="right reveal d2">
-            Do rótulo que comunica em 1 segundo à etiqueta técnica que resiste a –30&nbsp;°C. Escolhemos substrato, adesivo e acabamento em função do seu produto — não do nosso estoque.
+            Em nossas impressões você pode optar para que seu produto seja produzido com verniz e laminação como também colocar um toque de elegância com aplicações em cold stamping ou hot stamping que proporcionarão um efeito diferenciado em seu rótulo.
           </div>
         </div>
 
-        <div className="p-grid">
-          <article className="p-card big reveal" data-tilt>
-            <div className="viz" aria-hidden="true">
-              <span className="ring"></span><span className="ring"></span><span className="ring"></span><span className="ring"></span>
-            </div>
+        <div className="p-grid" style={{ position: 'relative', zIndex: 1 }}>
+          <div className="products-viz" aria-hidden="true">
+            <span className="ring"></span><span className="ring"></span><span className="ring"></span><span className="ring"></span>
+          </div>
+
+          <article className="p-card med reveal" data-tilt>
             <span className="num">01 · Flagship</span>
             <div>
               <h3>Rótulos adesivos premium</h3>
@@ -67,7 +68,7 @@ export default function Products() {
             </span>
           </article>
 
-          <article className="p-card sm reveal d2" data-tilt>
+          <article className="p-card med reveal d2" data-tilt>
             <span className="num">03</span>
             <div>
               <h3>Formatos especiais</h3>
@@ -82,7 +83,7 @@ export default function Products() {
             </span>
           </article>
 
-          <article className="p-card sm reveal d1" data-tilt>
+          <article className="p-card med reveal" data-tilt>
             <span className="num">04</span>
             <div>
               <h3>Acabamentos premium</h3>
@@ -97,7 +98,7 @@ export default function Products() {
             </span>
           </article>
 
-          <article className="p-card med reveal d2" data-tilt>
+          <article className="p-card med reveal d1" data-tilt>
             <span className="num">05</span>
             <div>
               <h3>Impressão variável</h3>
@@ -112,7 +113,7 @@ export default function Products() {
             </span>
           </article>
 
-          <article className="p-card sm reveal d3" data-tilt>
+          <article className="p-card med reveal d2" data-tilt>
             <span className="num">06</span>
             <div>
               <h3>Pré-impressão</h3>

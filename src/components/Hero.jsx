@@ -48,13 +48,13 @@ export default function Hero({ onQuoteClick }) {
 
       <div className="wrap hero-inner">
         <div className="hero-copy">
-          <span className="eyebrow reveal">Impressão inteligente · desde 2008</span>
+          <span className="eyebrow reveal">Impressão inteligente · desde 2014</span>
           <h1 className="reveal d1" style={{ marginTop: '22px' }}>
             Rótulos que <em>transformam</em><br />
             <span className="grad-text">marcas em memória</span>.
           </h1>
           <p className="lead reveal d2">
-            Fabricamos rótulos adesivos e etiquetas de alta fidelidade para indústrias que competem no centímetro quadrado. Cor gerenciada, acabamentos premium e produção rastreável — entregues na velocidade do seu go-to-market.
+            Fabricamos rótulos adesivos e etiquetas de alta fidelidade para indústrias que competem no centímetro quadrado. Oferecemos gestão de cores, acabamentos premium e produção rastreável, com entregas ágeis alinhadas ao seu go-to-market.
           </p>
           <div className="hero-cta reveal d3">
             <button className="btn" onClick={onQuoteClick} type="button">
@@ -73,7 +73,7 @@ export default function Hero({ onQuoteClick }) {
           </div>
           <div className="hero-stats reveal d4">
             <div className="s">
-              <span className="num">17<span className="plus">+</span></span>
+              <span className="num">12</span>
               <span className="lbl">Anos de mercado</span>
             </div>
             <div className="s">
@@ -81,8 +81,8 @@ export default function Hero({ onQuoteClick }) {
               <span className="lbl">Setores atendidos</span>
             </div>
             <div className="s">
-              <span className="num">ΔE&nbsp;<span style={{ color: 'var(--brand-cyan)' }}>&lt;2</span></span>
-              <span className="lbl">Precisão de cor</span>
+              <span className="num">Até 8<span style={{ color: 'var(--brand-cyan)' }}> cores</span></span>
+              <span className="lbl">Tintas com tratamento UV</span>
             </div>
           </div>
         </div>
@@ -90,7 +90,7 @@ export default function Hero({ onQuoteClick }) {
         <div className="hero-visual reveal d2" aria-hidden="true">
           <div className="label-stack">
             <div className="label-card lc-1">
-              <img src="/images/revisorajan18-4-768x667.jpg" alt="Rótulo em produção" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.4, mixBlendMode: 'screen' }} />
+              <img src="/images/imagem-1.png" alt="Rótulo em produção" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 1 }} />
               <div style={{ position: 'relative', zIndex: 1, height: '100%' }}>
                 <div className="lc-meta"><span>SKU · 0218-A</span><span className="dot"></span></div>
                 <div className="lc-sub">Lote · GL-2026/04</div>
@@ -98,7 +98,7 @@ export default function Hero({ onQuoteClick }) {
               </div>
             </div>
             <div className="label-card lc-2">
-              <img src="/images/IMG_9907-1024x683.jpg" alt="Inspeção gráfica" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.4, mixBlendMode: 'screen' }} />
+              <img src="/images/imagem-2.png" alt="Inspeção gráfica" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 1 }} />
               <div style={{ position: 'relative', zIndex: 1, height: '100%' }}>
                 <div className="lc-meta"><span>ΔE 1.4 · ISO 12647</span><span className="dot orange"></span></div>
                 <div className="lc-sub">Foil stamping · hot-print</div>
@@ -106,14 +106,11 @@ export default function Hero({ onQuoteClick }) {
               </div>
             </div>
             <div className="label-card lc-3">
-              <img src="/images/IMG_9957-1024x683.jpg" alt="Processo de Impressão" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.6, mixBlendMode: 'screen', borderRadius: '16px' }} />
+              <img src="/images/imagem-3.jpg" alt="Processo de Impressão" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 1, borderRadius: '16px' }} />
               <div style={{ position: 'relative', zIndex: 1, height: '100%' }}>
-                <div className="chip"></div>
-                <div className="barcode" id="barcode">
-                  {[3, 1, 2, 1, 4, 2, 1, 3, 1, 2, 4, 1, 2, 1, 3, 2, 1, 4, 1, 2, 3, 1, 2, 4, 1, 2, 1, 3, 2, 1, 4, 2, 1, 3].map((h, i) => (
-                    <i key={i} style={{ width: `${h}px`, height: `${60 + (h * 8)}%` }}></i>
-                  ))}
-                </div>
+                <div className="lc-meta"><span>Qualidade · 100% inspecionado</span><span className="dot cyan"></span></div>
+                <div className="lc-sub">Câmera AVT</div>
+                <div className="lc-title">Aprovação de conformidade</div>
               </div>
             </div>
           </div>

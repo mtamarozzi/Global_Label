@@ -22,15 +22,17 @@ export default function About() {
             Jovem na idade,<br />
             <span className="grad-text-orange">veterana no ofício.</span>
           </h2>
-          <p className="reveal d2">
-            A Global Label é especializada na fabricação de rótulos adesivos e etiquetas. Por trás da marca está um time com décadas somadas de experiência em impressão — cada bobina que sai daqui carrega esse patrimônio técnico em cada milímetro.
+          <p className="reveal d2" style={{ whiteSpace: 'pre-line' }}>
+            Embora sejamos uma empresa jovem, a Global Label foi fundada em 2014, nossos sócios possuem mais de 25 anos de experiência no segmento gráfico.
+            Trazemos ao mercado um conceito bem fundamentado, onde nossas prioridades se baseiam na excelência de atendimento aos nossos clientes e na qualidade dos produtos e serviços que oferecemos. Para isso, investimos constantemente em novas tecnologias para entregar o melhor material para você.
+            Atuamos com todos os tipos de rótulos autoadesivos e etiquetas, atendendo clientes de diversos segmentos e em todo território nacional.
           </p>
           
           <div className="values-grid">
             <div className="value reveal d3">
               <span className="k">Missão</span>
               <span className="v">Entregar excelência</span>
-              <p>Fornecer soluções em rótulos e etiquetas com a qualidade que sua marca merece.</p>
+              <p>Fornecer produtos de alta qualidade e atendimento personalizado a todos clientes, agregando valor no produto final.</p>
             </div>
             <div className="value reveal d4">
               <span className="k">Visão</span>

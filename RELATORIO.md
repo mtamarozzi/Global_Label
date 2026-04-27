@@ -271,6 +271,15 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
    - **Cursor Tracking Visível:** Correção da opacidade e raio de dispersão do gradiente luminoso ("glow") nos cards interativos, subindo a opacidade de 14% para até 55%, tornando o feixe de luz que segue o cursor perfeitamente visível e vibrante mesmo em cima de fundos claros.
    - O modo escuro (dark) permanece 100% intacto, garantindo experiências ótimas em ambos os temas.
 
+7. **Aprimoramento do Efeito "Liquid Glass" e Imagens Hero:**
+   - **Imagens Reais em Alta Resolução:** Substituição das imagens geradas por IA por fotos reais da fábrica da Global Label em altíssima definição.
+   - **Limpeza Visual (Hero):** Remoção completa do efeito de listras (`repeating-linear-gradient`) e da opacidade que cobriam os cartões da Hero, permitindo que as fotos originais brilhem com 100% de nitidez sem o aspecto fosco/esbranquiçado.
+   - **Efeito Liquid Glass Autêntico:** Refatoração dos cartões de Produtos (`.p-card`) e Qualidade (`.q-card`) para alcançar o visual autêntico de vidro fumê da referência *Realtyhub*:
+     - Aumento agressivo do desfoque de fundo para `backdrop-filter: blur(24px)`.
+     - Redução da opacidade do preenchimento de fundo para máxima translucidez.
+     - Adição de `box-shadow` combinando reflexos internos (bordas de luz) com uma densa sombra projetada (`drop-shadow`) para descolar o vidro do fundo.
+   - **Grid de Produtos:** Reestruturação da grade de Produtos & Serviços em 2 linhas x 3 colunas simétricas, com reordenação numérica rigorosa de 01 a 06 e atualização do texto descritivo oficial de acabamentos premium.
+
 ---
 
 ## 8. Links Finais
@@ -296,4 +305,4 @@ Durante o desenvolvimento, foram feitas várias rodadas de ajustes visuais a ped
 
 ---
 
-*Documento atualizado em 24 de Abril de 2026 · Projeto Global Label 2.0*
+*Documento atualizado em 27 de Abril de 2026 · Projeto Global Label 2.0*

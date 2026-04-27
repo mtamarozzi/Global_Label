@@ -54,16 +54,16 @@ export default function Quality() {
         <div className="metrics">
           <div className="m-grid">
             <div className="metric reveal">
-              <div className="n">ΔE&nbsp;1.4</div>
-              <div className="lbl">Fidelidade média de cor</div>
+              <div className="n">Até 8</div>
+              <div className="lbl">Cores em tintas com tratamento UV</div>
             </div>
             <div className="metric reveal d1">
               <div className="n">99.6<sup>%</sup></div>
               <div className="lbl">OTIF · pedido no prazo</div>
             </div>
             <div className="metric reveal d2">
-              <div className="n">24h</div>
-              <div className="lbl">Tempo médio para prova</div>
+              <div className="n">BR</div>
+              <div className="lbl">Atendimento nacional</div>
             </div>
             <div className="metric reveal d3">
               <div className="n">100<sup>%</sup></div>
